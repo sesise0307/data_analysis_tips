@@ -6,7 +6,7 @@ df.groupby(np.arange(df.shape[0]) // n).mean()
 
 ## Group by months
 ```python
-df.groupby(pd.TimeGrouper('M'))
+df.groupby(pd.Grouper(freq='1M'))
 ```
 
 ## Group by range
