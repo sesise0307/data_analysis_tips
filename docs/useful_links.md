@@ -30,3 +30,4 @@
 ## Etc
 
 * [24 Ultimate Data Science Projects](https://www.analyticsvidhya.com/blog/2018/05/24-ultimate-data-science-projects-to-boost-your-knowledge-and-skills/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+AnalyticsVidhya+%28Analytics+Vidhya%29)
+* [Data Engineering HowTo](https://github.com/adilkhash/Data-Engineering-HowTo)
