@@ -19,6 +19,7 @@
 * [from Data to Viz](https://www.data-to-viz.com/index.html)
 * [Top 50 matplotlib Visualizations](https://www.machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-master-plots-python/?utm_medium=email&utm_source=topic+optin&utm_campaign=awareness&utm_content=20181219_data_nl&mkt_tok=eyJpIjoiTkRReE1EbGhNRGM1T0ROayIsInQiOiJHNlRPNlhRV1k3K0ZmVXVcL1hIMk5iTXhHUFB6ZmZGVlwvNE9jZGEwT2NPTFV3bVc0bXJvTzZmWVA0THhMMmM4M0pzUWhadThKZG1WcnRKdzBtVnZXMmlcL1pYZnB2YXM4ZzNlaVlURGE5TEMzZXJvRjgwYmlpSURMVTZhU3FmMEd6SSJ9)
 * [Make your Data Talk!](https://towardsdatascience.com/make-your-data-talk-13072f84eeac)
+* [PyViz](https://pyviz.org/index.html)
 
 
 ## Dev.
