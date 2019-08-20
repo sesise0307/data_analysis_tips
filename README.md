@@ -6,3 +6,4 @@ This is a personal repository for saving useful tips for data analysis.
 * [conda](docs/conda.md)
 * [jupyter notebook](docs/jupyter_notebook.md)
 * [pandas](docs/pandas.md)
+* [preprocessing](docs/preprocessing.md)
