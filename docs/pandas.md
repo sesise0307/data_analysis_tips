@@ -1,3 +1,7 @@
+# Tips
+
+* [Data School's top 25 pandas tricks](https://nbviewer.jupyter.org/github/justmarkham/pandas-videos/blob/master/top_25_pandas_tricks.ipynb)
+
 # EDA
 
 * [pandas-profiling](https://github.com/pandas-profiling/pandas-profiling)
