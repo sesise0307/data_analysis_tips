@@ -1,6 +1,7 @@
 # Tips
 
 * [Data School's top 25 pandas tricks](https://nbviewer.jupyter.org/github/justmarkham/pandas-videos/blob/master/top_25_pandas_tricks.ipynb)
+* [A Comprehensive Guide to Pandas’ Advanced Features in 20 Minutes](https://towardsdatascience.com/learn-advanced-features-for-pythons-main-data-analysis-library-in-20-minutes-d0eedd90d086)
 
 # EDA
 
