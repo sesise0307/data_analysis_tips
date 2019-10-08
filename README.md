@@ -7,3 +7,4 @@ This is a personal repository for saving useful tips for data analysis.
 * [jupyter notebook](docs/jupyter_notebook.md)
 * [pandas](docs/pandas.md)
 * [preprocessing](docs/preprocessing.md)
+* [Awesome Data Science with Python (GitHub)](https://github.com/r0f1/datascience)
